@@ -4,5 +4,3 @@
 
 to access the list of books Rest Api
 http://localhost:8000/api/v1/books
-
-to create or via the api
